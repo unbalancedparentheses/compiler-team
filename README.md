@@ -59,6 +59,7 @@ Name                                                      | Status       | Short
 [Profile-Guided Optimization](working-groups/pgo/)        | Active       | Implementing profile-guided optimization for rustc                                                 | [#t-compiler/wg-profile-guided-optimization][pgo_stream]
 [MIR Optimizations](working-groups/mir-opt/)              | Active       | Write MIR optimizations and refactor the MIR to be more optimizable.                               | [#t-compiler/wg-mir-opt][mir-opt-stream]
 [Rustc pipelining](working-groups/pipelining/)            | Active       | Enable Cargo to invoke rustc in a pipelined fashion, speeding up crate graph compiles.             | [#t-compiler/wg-pipelining][pipelining-stream]
+[Diagnostics](working-groups/diagnostics/)                | Active       | Use crates.io crates for diagnostics rendering and make emitting diagnostics nicer.                | [#t-compiler/wg-diagnostics][diagnostics-stream]
 
 [nikomatsakis]: https://github.com/nikomatsakis
 [cramertj]: https://github.com/cramertj
@@ -72,6 +73,7 @@ Name                                                      | Status       | Short
 [Zoxc]: https://github.com/Zoxc
 [blitzerr]: https://github.com/blitzerr
 [oli-obk]: https://github.com/oli-obk
+[estebank]: https://github.com/estebank
 
 [Weekly, in Zulip]: #meeting-calendar
 [nll_stream]: https://rust-lang.zulipchat.com/#narrow/stream/122657-t-compiler.2Fwg-nll
@@ -86,6 +88,7 @@ Name                                                      | Status       | Short
 [rfc-2229-stream]: https://rust-lang.zulipchat.com/#narrow/stream/189812-t-compiler.2Fwg-rfc-2229
 [mir-opt-stream]: https://rust-lang.zulipchat.com/#narrow/stream/189540-t-compiler.2Fwg-mir-opt
 [pipelining-stream]: https://rust-lang.zulipchat.com/#narrow/stream/195180-t-compiler.2Fwg-pipelining
+[diagnostics-stream]: https://rust-lang.zulipchat.com/#narrow/stream/147480-t-compiler.2Fwg-diagnostics
 
 ## Expert Map
 
